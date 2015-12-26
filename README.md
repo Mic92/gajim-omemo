@@ -12,6 +12,8 @@ All dependencies can be installed with `pip`. (Depending on your setup you might
 want to use `pip2` as Gajim is using python2.7)
 
 * python-axolotl
+* python-axolotl-curve25519
+* python-protobuf
 
 ## Installation
 Clone the git repository into Gajim's plugin directory.
